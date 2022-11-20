@@ -16,5 +16,5 @@ places = [{"placeName":"Chichicastenango Market","descrip":"   Visit one of the 
 {"placeName":"Paseo Cayala","descrip":"  A beautiful shopping center in Guatemala City filled with excellent dining and retail stores","latitude":14.61043237,"longitude":-90.48633177},
 {"placeName":"Pollo Campero","descrip":"  Try Guatemala's most famous and delicious fried chicken","latitude":14.62321081,"longitude":-90.50709473},
 {"placeName":"Cerro de La Cruz","descrip":"  A short little hike up this hill gives you a beautiful view over the city of Antigua, Guatemala","latitude":14.56461393,"longitude":-90.73178743},
-{"placeName":"La Irtra ","descrip":"  A fun amusement park","latitude":14.57466965,"longitude":-90.54708812},
+{"placeName":"El Irtra ","descrip":"  A fun amusement park","latitude":14.57466965,"longitude":-90.54708812},
 {"placeName":"Mercado de Artesanias","descrip":"  Buy local hand-made goods and souvenirs here","latitude":14.55748791,"longitude":-90.73952932}]
